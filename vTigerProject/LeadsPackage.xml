@@ -1,0 +1,7 @@
+<suite name = "Leads Suite" verbose="1">
+	<test name ="Leads test">
+		<classes>
+			<class name = "com.vtiger.LeadsPackage.vt_CreateLead" />
+		</classes>
+	</test>
+</suite>		

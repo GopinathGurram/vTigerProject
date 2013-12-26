@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Leads Suite]">
+  <test name="Leads test(failed)">
+    <classes>
+      <class name="com.vtiger.LeadsPackage.vt_CreateLead">
+        <methods>
+          <include name="precondition"/>
+          <include name="postcondition"/>
+          <include name="testvt_CreateLead"/>
+        </methods>
+      </class> <!-- com.vtiger.LeadsPackage.vt_CreateLead -->
+    </classes>
+  </test> <!-- Leads test(failed) -->
+</suite> <!-- Failed suite [Leads Suite] -->

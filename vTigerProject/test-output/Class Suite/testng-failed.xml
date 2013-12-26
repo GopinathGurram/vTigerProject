@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Class Suite]">
+  <test name="test(failed)">
+    <classes>
+      <class name="com.vtiger.GenericPackage.ProjectSpecificMethods">
+        <methods>
+          <include name="precondition"/>
+          <include name="postcondition"/>
+          <include name="vtiger_Logout"/>
+          <include name="vtiger_Login"/>
+        </methods>
+      </class> <!-- com.vtiger.GenericPackage.ProjectSpecificMethods -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Class Suite] -->
